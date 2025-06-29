@@ -32,7 +32,7 @@ To access and run the project notebooks, follow these steps:
 
 3. Launch python:
    ```
-  python
+    python
    ```
 
 4. Open the desired project notebook (e.g., credit scoring.py`) and run the cells to explore the analysis and results.
